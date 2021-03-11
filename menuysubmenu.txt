@@ -1,0 +1,40 @@
+*Registro(maestro de ingresos):MS
+	-Datos generales
+	-Núcleo Familiar
+	-Declaraciones
+	-Anexos
+	-Asignar IPS
+	-Circular016
+	
+*Actualización(novedades de actualización-novedades de retiro del municipio): NS
+		-:Datos Generales(N01,N02,N03,N04,N09,N12,N13,N14,N15,N17,N19,N20,N21,N25,N31,N32,N33,N35)
+		
+	
+
+*Traslado o Movilidad(novedades de actualización de traslado entre EPS o movilidad entre regímen): S1,S4
+
+*Novedad retroactiva:NR
+
+
+
+GLOSARIO
+novedad retroactiva: afiliaciones o retiros que no se hicieron a tiempo por parte del operador. (periodos que no se han cobrado)
+N01,Actualización o corrección del tipo y número de identificación del afiliado y/o fecha de nacimiento. ORDEN 1,2,7,33
+N02,
+N03,
+N04,
+N09,
+N12,
+N13,
+N14,
+N15,
+N17,
+N19,
+N20,
+N21,
+N25,
+N31,
+N32,
+N33,
+N35		
+ 
